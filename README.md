@@ -1,5 +1,9 @@
 # BeautyDesk
 
+> **Этот репозиторий больше не обновляется.** Новые версии и исходный код — в [Sheddy4/BeautyDesk](https://github.com/Sheddy4/BeautyDesk), последняя версия: [скачать →](https://github.com/Sheddy4/BeautyDesk/releases/latest).
+>
+> *This repository is archived. New versions: [Sheddy4/BeautyDesk](https://github.com/Sheddy4/BeautyDesk/releases/latest).*
+
 Оболочка рабочего стола для Windows 11 в духе macOS и Linux: верхняя панель, док, лаунчер и виджеты поверх обычной Windows. Ничего в системе не меняется навсегда — после выхода Windows выглядит как раньше.
 
 *A macOS/Linux-style desktop layer for Windows 11: top bar, dock, launcher and widgets. English is available in Settings.*
